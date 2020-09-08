@@ -1,0 +1,21 @@
+Train on 1100 samples, validate on 367 samples
+Epoch 1/10
+1100/1100 [==============================] - 1s 841us/sample - loss: 0.6691 - accuracy: 0.5836 - precision_1: 0.5531 - recall_1: 0.9858 - val_loss: 0.6419 - val_accuracy: 0.6403 - val_precision_1: 0.5962 - val_recall_1: 0.9793
+Epoch 2/10
+1100/1100 [==============================] - 0s 71us/sample - loss: 0.6148 - accuracy: 0.7700 - precision_1: 0.6935 - recall_1: 0.9894 - val_loss: 0.5822 - val_accuracy: 0.8229 - val_precision_1: 0.7623 - val_recall_1: 0.9637
+Epoch 3/10
+1100/1100 [==============================] - 0s 63us/sample - loss: 0.5459 - accuracy: 0.9073 - precision_1: 0.8556 - recall_1: 0.9858 - val_loss: 0.5160 - val_accuracy: 0.8965 - val_precision_1: 0.8605 - val_recall_1: 0.9585
+Epoch 4/10
+1100/1100 [==============================] - 0s 63us/sample - loss: 0.4708 - accuracy: 0.9573 - precision_1: 0.9390 - recall_1: 0.9805 - val_loss: 0.4490 - val_accuracy: 0.9319 - val_precision_1: 0.9242 - val_recall_1: 0.9482
+Epoch 5/10
+1100/1100 [==============================] - 0s 71us/sample - loss: 0.3943 - accuracy: 0.9709 - precision_1: 0.9635 - recall_1: 0.9805 - val_loss: 0.3886 - val_accuracy: 0.9428 - val_precision_1: 0.9433 - val_recall_1: 0.9482
+Epoch 6/10
+1100/1100 [==============================] - 0s 63us/sample - loss: 0.3246 - accuracy: 0.9773 - precision_1: 0.9804 - recall_1: 0.9752 - val_loss: 0.3365 - val_accuracy: 0.9482 - val_precision_1: 0.9628 - val_recall_1: 0.9378
+Epoch 7/10
+1100/1100 [==============================] - 0s 63us/sample - loss: 0.2656 - accuracy: 0.9809 - precision_1: 0.9892 - recall_1: 0.9735 - val_loss: 0.2965 - val_accuracy: 0.9537 - val_precision_1: 0.9731 - val_recall_1: 0.9378
+Epoch 8/10
+1100/1100 [==============================] - 0s 63us/sample - loss: 0.2170 - accuracy: 0.9836 - precision_1: 0.9910 - recall_1: 0.9770 - val_loss: 0.2648 - val_accuracy: 0.9455 - val_precision_1: 0.9676 - val_recall_1: 0.9275
+Epoch 9/10
+1100/1100 [==============================] - 0s 57us/sample - loss: 0.1786 - accuracy: 0.9855 - precision_1: 0.9928 - recall_1: 0.9788 - val_loss: 0.2430 - val_accuracy: 0.9428 - val_precision_1: 0.9674 - val_recall_1: 0.9223
+Epoch 10/10
+1100/1100 [==============================] - 0s 63us/sample - loss: 0.1482 - accuracy: 0.9864 - precision_1: 0.9946 - recall_1: 0.9788 - val_loss: 0.2265 - val_accuracy: 0.9373 - val_precision_1: 0.9620 - val_recall_1: 0.9171
